@@ -2046,11 +2046,11 @@ When it comes to log management in Kubernetes, the EFK stack stands out as a rob
 
 ---
 
-## 📁 All YAML Files
+<!-- ## 📁 All YAML Files
 
 > Please click the below GitHub link for all YAML files:
 >
-> ➡️ [https://github.com/CloudTechDevOps/](https://github.com/CloudTechDevOps/)
+> ➡️ [https://github.com/CloudTechDevOps/](https://github.com/CloudTechDevOps/) -->
 
 ---
 
